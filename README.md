@@ -1,6 +1,3 @@
-# CodeWithAi
-In this repo I will push all the projects I have built with AI.
-
 ## 📄 Resume Builder & ATS Checker
 A modern React + Vite web application for building professional resumes and checking ATS scores. 
 
