@@ -2,7 +2,7 @@
 A modern React + Vite web application for building professional resumes and checking ATS scores. 
 
 ### 🤝 Contributing & Help Wanted!
-**I am looking for developers to help improve this project and fix errors!** 
+**I am looking for partner to help improve this project and fix errors!** 
 If you find any bugs, have ideas for new features, or want to improve the code, please feel free to contribute. You can:
 - Open an **Issue** to report a bug or suggest a feature.
 - Fork the repo and submit a **Pull Request (PR)** with your fixes or improvements.
